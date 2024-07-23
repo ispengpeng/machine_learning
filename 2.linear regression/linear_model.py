@@ -5,7 +5,7 @@ import tqdm
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv('SOCR-HeightWeight.csv')
+df = pd.read_csv('F:\\machine_learning-1\\2.linear regression\\SOCR-HeightWeight.csv')
 
 #获取数据长度
 length = len(df)
